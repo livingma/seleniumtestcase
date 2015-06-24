@@ -22,7 +22,9 @@ public class NewTest extends SeleneseTestBase {
 	public void f() {
 		Assert.assertEquals(true, true);
 	}
-	
+
+
+
 
 	@BeforeMethod
 	public void setUp() throws Exception {
